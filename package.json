@@ -1,0 +1,25 @@
+{
+  "name": "foodjunction-app",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Prasad-Dhole/FoodJunction-App#readme",
+  "bugs": {
+    "url": "https://github.com/Prasad-Dhole/FoodJunction-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prasad-Dhole/FoodJunction-App.git"
+  },
+  "license": "ISC",
+  "author": "Prasad Dhole",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
